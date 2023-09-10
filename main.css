@@ -48,7 +48,7 @@ header.hero {
 }
 
 header.hero h1,
-div.hero h2 {
+header.hero h2 {
     text-align: center;
     margin: 0;
 }
