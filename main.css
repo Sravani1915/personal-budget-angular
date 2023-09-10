@@ -68,25 +68,9 @@ header.hero h2 {
     width: 100%;
 }
 
-main {
-    padding: 40px;
-    width: 100%;
-}
-
 .page-area {
     max-width: 768px;
     display: inline-block;
-}
-
-.skip {
-    display: block;
-    line-height: 44px;
-    padding: 0 20px;
-    margin-top: -44px;
-}
-
-.skip:focus {
-    margin-top: 0;
 }
 
 .bottom {
