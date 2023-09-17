@@ -2,47 +2,43 @@
     "myBudget": [
         {
             "title": "Eat out",
-            "budget": 33
+            "budget": 10
         },
         {
             "title": "Rent",
-            "budget": 33
+            "budget": 425
         },
         {
             "title": "Grocery",
-            "budget": 34
+            "budget": 110
         },
         {
             "title": "Gas",
-            "budget": 33
+            "budget": 20
         },
         {
-            "title": "Savings",
-            "budget": 33
+            "title": "Water",
+            "budget": 20
         },
         {
-            "title": "Clothing",
-            "budget": 33
-        },
-        {
-            "title": "Entertainment",
-            "budget": 33
-        },
-        {
-            "title": "Utilities",
-            "budget": 33
-        },
-        {
-            "title": "Phone",
-            "budget": 33
+            "title": "Electricity",
+            "budget": 40
         },
         {
             "title": "Internet",
-            "budget": 33
+            "budget": 30
         },
         {
-            "title": "Car Insurance",
-            "budget": 33
+            "title": "Phone",
+            "budget": 16
+        },
+        {
+            "title": "Maintenance",
+            "budget": 40
+        },
+        {
+            "title": "Miscellaneous",
+            "budget": 30
         }
     ]
 }
